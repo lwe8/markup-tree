@@ -1,0 +1,24 @@
+{
+  "name": "@lwe8/markup-tree",
+  "version": "1.0.0",
+  "description": "Generate markup tree from a folder",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwe8/markup-tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwe8/markup-tree/issues"
+  },
+  "homepage": "https://github.com/lwe8/markup-tree#readme",
+  "dependencies": {
+    "@types/node": "^22.15.21",
+    "typescript": "^5.8.3"
+  }
+}
