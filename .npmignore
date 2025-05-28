@@ -1,0 +1,12 @@
+node_modules
+build.js
+.gitignore
+notes
+lib
+.github
+src
+package-lock.json
+tsconfig.json
+biome.json
+a.ts 
+aa.json 
